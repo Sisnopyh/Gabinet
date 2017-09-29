@@ -1,0 +1,4 @@
+﻿  .NETFramework,Version=v4.5.1.AssemblyAttributes.cpp
+  Logowanie.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Gabinet.vcxproj -> C:\Users\Raja\Documents\Visual Studio 2017\Projects\Gabinet\Debug\Gabinet.exe
+  Gabinet.vcxproj -> C:\Users\Raja\Documents\Visual Studio 2017\Projects\Gabinet\Debug\Gabinet.pdb (Partial PDB)
